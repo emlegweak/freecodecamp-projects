@@ -1,0 +1,1 @@
+created a simple survey form using HTML and CSS to practice coding with different types of form elements and attributes
