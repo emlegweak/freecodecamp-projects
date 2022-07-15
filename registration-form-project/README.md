@@ -1,0 +1,1 @@
+created a simple registration form using HTML and CSS to practice utilizing different form elements and attributes
