@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css" </head>
+
+<body>
+    <main>
+        <h1 id="title">100Devs Survey Form</h1>
+        <p id="description">Thank you for taking the time to help us improve the program.</p>
+        <form id="survey-form">
+            <label id="name-label">Name <input id="name" name="name" type="text" placeholder="Enter your name"
+                    required /></label>
+            <label id="email-label">Email <input id="email" name="email" type="email" placeholder="Enter your email"
+                    required /></label>
+            <label id="number-label">Age (optional) <input id="number" type="number" name="age" min="13" max="120"
+                    placeholder="Enter your age" /></label>
+            <label id="radio-label">Would you recommend 100Devs to a friend? <input type="radio" name="recommend"
+                    class="inline" value="1" /> Fo sho
+                <input type="radio" name="recommend" class="inline" value="2" /> Naw, man
+                <input type="radio" name="recommend" class="inline" value="3" /> Unsure
+            </label>
+            <label id="dropdown-label">What is your favorite part of 100Devs?
+                <select id="dropdown">
+                    <option value="">Select an option</option>
+                    <option value="1">Classes</option>
+                    <option value="2">Projects</option>
+                    <option value="3">Community</option>
+                    <option value="4">Other</option>
+                </select>
+            </label>
+            <label id="checkbox-label">What would you like to see improved? (check all that apply)
+                </br><input type="checkbox" value="1" name="improvement" class="inline" /> Frontend Projects
+                </br><input type="checkbox" value="2" name="improvement" class="inline" /> Backend Projects
+                </br><input type="checkbox" value="3" name="improvement" class="inline" /> Fullstack Projects
+                </br><input type="checkbox" value="4" name="improvement" class="inline" /> Class Streams
+                </br><input type="checkbox" value="5" name="improvement" class="inline" /> Twitter Spaces
+                </br><input type="checkbox" value="6" name="improvement" class="inline" /> Discord Channels
+                </br><input type="checkbox" value="7" name="improvement" class="inline" /> Study Communities
+            </label>
+            <label>Any comments or suggestions?
+                <textarea name="bio" rows="3" cols="30" placeholder="I love Leon because..."></textarea>
+            </label>
+            <input type="submit" id="submit" value="Submit" />
+        </form>
+    </main>
+</body>
+
+</html>
