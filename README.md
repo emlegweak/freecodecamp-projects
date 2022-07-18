@@ -8,6 +8,10 @@ projects from freecodecamp.com courses
 2. build-survey-form<br />
 ![image](https://user-images.githubusercontent.com/97409679/179320751-f88c64e1-b7c8-42cd-bb17-78632c9256aa.png)
 
-3. css-rothko-box
+3. css-rothko-box<br />
 ![image](https://user-images.githubusercontent.com/97409679/179576839-9073f85a-db32-4100-8ac1-d4a40a9aacb4.png)
 
+4.flexbox-image-gallery<br />
+![image](https://user-images.githubusercontent.com/97409679/179579813-9ed267cb-603e-43ef-aea1-dbebed8974fb.png)
+![image](https://user-images.githubusercontent.com/97409679/179579878-17c5df19-c1a7-443c-8793-085c9bbcc97e.png)
+![image](https://user-images.githubusercontent.com/97409679/179579957-f3571888-ea08-409a-8cab-153851fb0ccc.png)
