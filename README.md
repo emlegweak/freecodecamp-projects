@@ -18,3 +18,6 @@ projects from freecodecamp.com courses
 
 4.typography-nutrition-label<br />
 ![image](https://user-images.githubusercontent.com/97409679/179604031-de31400d-f9bf-4515-afbc-7df3f0c6117b.png)
+
+5.accessibility-quiz<br />
+![image](https://user-images.githubusercontent.com/97409679/179865834-4804b947-24b3-4047-9637-ca6363111064.png)
