@@ -21,3 +21,6 @@ projects from freecodecamp.com courses
 
 5.accessibility-quiz<br />
 ![image](https://user-images.githubusercontent.com/97409679/179865834-4804b947-24b3-4047-9637-ca6363111064.png)
+
+6.balance-sheet<br />
+![image](https://user-images.githubusercontent.com/97409679/179887258-08941f01-2d73-404a-ad2e-7175de92ebf1.png)
